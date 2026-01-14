@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Hamilton Play",
+  "description": "Hamilton Play is a premium music and video streaming application inspired by the vibrant culture of Angola. Experience a high-end dark interface featuring the colors of the Angolan flag, featuring smart search, synchronized lyrics, and a seamless audio-video toggle.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
